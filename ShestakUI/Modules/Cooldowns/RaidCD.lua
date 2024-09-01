@@ -1,5 +1,4 @@
 local T, C, L = unpack(ShestakUI)
-if C.raidcooldown.enable ~= true then return end
 
 ----------------------------------------------------------------------------------------
 --	Raid cooldowns(alRaidCD by Allez, msylgj0@NGACN)
